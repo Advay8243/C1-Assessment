@@ -1,0 +1,506 @@
+product_id,product_name,category,price,cost,stock_quantity,reorder_level
+1,,Electronics,374.18,198.32,78,49
+2,,Clothing,258.48,183.52,266,19
+3,,Home,177.69,103.06,356,56
+4,,Sports,218.65,137.75,233,23
+5,,Beauty,135.53,92.16,470,15
+6,,Books,85.11,51.92,201,7
+7,,Toys,123.13,61.56,174,5
+8,,Grocery,81.93,54.89,207,36
+9,,Electronics,271.32,127.52,253,56
+10,,Clothing,220.29,134.38,412,42
+11,Northpeak Ceramic Mug,,236.15,162.94,475,30
+12,Blueharbor Resistance Bands,,320.36,205.03,127,33
+13,Sunfield Hair Serum,,304.54,146.18,90,42
+14,Ironleaf Colouring Book,,127.14,62.30,413,37
+15,Coral Bay RC Car,,417.04,266.91,23,23
+16,Maple & Co Dark Chocolate,Grocery,94.94,118.68,328,15
+17,Redstone Webcam,Electronics,187.22,234.03,289,5
+18,Quietline Crew Socks,Clothing,218.42,273.03,171,59
+19,AeroNest Plant Pot,Home,56.17,70.21,405,59
+20,Lumen Foam Roller,Sports,48.54,60.68,244,5
+21,Northpeak Face Moisturiser,Beauty,364.85,456.06,390,37
+22,Blueharbor Cookbook,Books,92.09,115.11,355,10
+23,Sunfield Board Game,Toys,103.64,129.55,24,15
+24,Ironleaf Olive Oil,Grocery,286.13,188.85,-6,23
+25,Coral Bay Laptop Stand,Electronics,81.60,56.30,-7,30
+26,Maple & Co Trail Shorts,Clothing,160.93,85.29,-8,35
+27,Redstone Duvet Cover,Home,131.08,69.47,-9,14
+28,Quietline Jump Rope,Sports,236.09,167.62,-3,47
+29,AeroNest Shampoo,Beauty,211.35,135.26,9,9
+30,Lumen Notebook Set,Books,147.45,64.88,463,26
+31,Northpeak Building Blocks,Toys,416.17,233.06,275,50
+32,Blueharbor Green Tea Box,Grocery,265.17,188.27,153,12
+33,Sunfield Bluetooth Speaker,Electronics,27.50,14.85,406,6
+34,Ironleaf Wool Sweater,Clothing,315.12,220.58,431,12
+35,Coral Bay Cutlery Set,Home,175.22,124.41,353,60
+36,Maple & Co Soccer Ball,Sports,34.14,17.75,48,33
+37,Redstone Nail Kit,Beauty,163.00,70.09,362,15
+38,Quietline Science Magazine,Books,127.77,80.50,200,43
+39,AeroNest STEM Robot Kit,Toys,197.96,118.78,269,10
+40,Lumen Nut Mix,Grocery,127.80,62.62,361,57
+41,Northpeak Wireless Headphones,Electronics,166.55,101.60,239,26
+42,Blueharbor Denim Jeans,Clothing,195.95,131.29,193,21
+43,Sunfield Desk Lamp,Home,169.09,72.71,292,17
+44,Ironleaf Dumbbell Pair,Sports,117.45,84.56,221,6
+45,Coral Bay Body Wash,Beauty,160.62,78.70,276,39
+46,Maple & Co Kids Picture Book,Books,71.59,43.67,319,50
+47,Redstone Action Figure,Toys,249.98,137.49,212,29
+48,Quietline Honey Jar,Grocery,306.67,177.87,408,59
+49,AeroNest Smart Watch,Electronics,394.08,260.09,67,37
+50,Lumen Cap,Clothing,199.30,103.64,292,7
+51,Northpeak Ceramic Mug,Home,125.77,64.14,18,17
+52,Blueharbor Resistance Bands,Sports,179.77,88.09,164,38
+53,Sunfield Hair Serum,Beauty,190.47,99.04,78,56
+54,Ironleaf Colouring Book,Books,313.79,144.34,296,20
+55,Coral Bay RC Car,Toys,364.83,218.90,451,15
+56,Maple & Co Dark Chocolate,Grocery,71.90,46.02,318,18
+57,Redstone Webcam,Electronics,370.04,222.02,360,23
+58,Quietline Crew Socks,Clothing,128.20,89.74,43,43
+59,AeroNest Plant Pot,Home,74.04,48.87,148,59
+60,Lumen Foam Roller,Sports,301.32,156.69,233,43
+61,Northpeak Face Moisturiser,Beauty,259.08,111.40,28,28
+62,Blueharbor Cookbook,Books,83.22,44.94,408,59
+63,Sunfield Board Game,Toys,359.05,211.84,75,20
+64,Ironleaf Olive Oil,Grocery,30.24,18.45,222,27
+65,Coral Bay Laptop Stand,Electronics,191.23,110.91,109,33
+66,Maple & Co Trail Shorts,Clothing,295.04,179.97,197,11
+67,Redstone Duvet Cover,Home,405.49,178.42,58,20
+68,Quietline Jump Rope,Sports,171.46,96.02,202,36
+69,AeroNest Shampoo,Beauty,257.17,169.73,344,49
+70,Lumen Notebook Set,Books,272.70,174.53,376,13
+71,Northpeak Building Blocks,Toys,118.69,71.21,253,18
+72,Blueharbor Green Tea Box,Grocery,199.98,119.99,249,25
+73,Sunfield Bluetooth Speaker,Electronics,142.31,79.69,68,56
+74,Ironleaf Wool Sweater,Clothing,61.16,40.98,164,26
+75,Coral Bay Cutlery Set,Home,115.65,49.73,91,39
+76,Maple & Co Soccer Ball,Sports,297.96,205.59,150,24
+77,Redstone Nail Kit,Beauty,90.60,63.42,278,13
+78,Quietline Science Magazine,Books,162.42,97.45,214,41
+79,AeroNest STEM Robot Kit,Toys,121.80,56.03,353,29
+80,Lumen Nut Mix,Grocery,166.48,83.24,287,38
+81,Northpeak Wireless Headphones,Electronics,182.83,104.21,306,30
+82,Blueharbor Denim Jeans,Clothing,255.64,107.37,400,35
+83,Sunfield Desk Lamp,Home,220.78,108.18,475,10
+84,Ironleaf Dumbbell Pair,Sports,414.58,211.44,284,49
+85,Coral Bay Body Wash,Beauty,105.47,63.28,389,51
+86,Maple & Co Kids Picture Book,Books,378.30,192.93,35,35
+87,Redstone Action Figure,Toys,122.88,62.67,246,22
+88,Quietline Honey Jar,Grocery,83.52,36.75,78,28
+89,AeroNest Smart Watch,Electronics,130.61,67.92,85,35
+90,Lumen Cap,Clothing,238.36,104.88,316,26
+91,Northpeak Ceramic Mug,Home,110.93,74.32,91,40
+92,Blueharbor Resistance Bands,Sports,203.02,140.08,241,25
+93,Sunfield Hair Serum,Beauty,411.79,280.02,133,44
+94,Ironleaf Colouring Book,Books,57.74,28.87,416,5
+95,Coral Bay RC Car,Toys,105.42,61.14,294,6
+96,Maple & Co Dark Chocolate,Grocery,100.94,54.51,314,43
+97,Redstone Webcam,Electronics,291.50,180.73,17,17
+98,Quietline Crew Socks,Clothing,276.17,146.37,261,35
+99,AeroNest Plant Pot,Home,196.32,135.46,248,27
+100,Lumen Foam Roller,Sports,18.66,8.96,342,48
+101,Northpeak Face Moisturiser,Beauty,264.56,177.26,315,45
+102,Blueharbor Cookbook,Books,78.18,40.65,239,58
+103,Sunfield Board Game,Toys,259.54,186.87,252,49
+104,Ironleaf Olive Oil,Grocery,325.54,211.60,422,30
+105,Coral Bay Laptop Stand,Electronics,343.28,154.48,253,54
+106,Maple & Co Trail Shorts,Clothing,205.97,119.46,100,31
+107,Redstone Duvet Cover,Home,174.54,96.00,399,59
+108,Quietline Jump Rope,Sports,224.63,98.84,469,19
+109,AeroNest Shampoo,Beauty,335.45,218.04,208,18
+110,Lumen Notebook Set,Books,333.63,153.47,13,13
+111,Northpeak Building Blocks,Toys,65.39,43.16,74,24
+112,Blueharbor Green Tea Box,Grocery,289.68,173.81,223,24
+113,Sunfield Bluetooth Speaker,Electronics,17.76,8.88,211,28
+114,Ironleaf Wool Sweater,Clothing,341.09,170.54,257,33
+115,Coral Bay Cutlery Set,Home,19.04,9.71,209,24
+116,Maple & Co Soccer Ball,Sports,117.74,83.60,135,57
+117,Redstone Nail Kit,Beauty,112.65,66.46,180,23
+118,Quietline Science Magazine,Books,49.17,22.13,246,29
+119,AeroNest STEM Robot Kit,Toys,76.96,53.10,341,7
+120,Lumen Nut Mix,Grocery,357.08,224.96,450,38
+121,Northpeak Wireless Headphones,Electronics,261.11,180.17,477,37
+122,Blueharbor Denim Jeans,Clothing,74.12,31.13,20,20
+123,Sunfield Desk Lamp,Home,285.24,134.06,17,17
+124,Ironleaf Dumbbell Pair,Sports,108.26,58.46,21,21
+125,Coral Bay Body Wash,Beauty,268.24,144.85,226,44
+126,Maple & Co Kids Picture Book,Books,179.66,77.25,48,43
+127,Redstone Action Figure,Toys,76.55,37.51,53,53
+128,Quietline Honey Jar,Grocery,381.19,175.35,161,5
+129,AeroNest Smart Watch,Electronics,399.16,275.42,70,25
+130,Lumen Cap,Clothing,270.01,140.41,361,22
+131,Northpeak Ceramic Mug,Home,293.96,135.22,224,38
+132,Blueharbor Resistance Bands,Sports,179.03,119.95,341,56
+133,Sunfield Hair Serum,Beauty,78.68,43.27,477,51
+134,Ironleaf Colouring Book,Books,401.33,236.78,443,17
+135,Coral Bay RC Car,Toys,339.09,166.15,432,26
+136,Maple & Co Dark Chocolate,Grocery,186.74,125.12,167,14
+137,Redstone Webcam,Electronics,14.74,8.70,139,55
+138,Quietline Crew Socks,Clothing,139.02,75.07,201,10
+139,AeroNest Plant Pot,Home,177.76,119.10,350,16
+140,Lumen Foam Roller,Sports,372.13,249.33,475,50
+141,Northpeak Face Moisturiser,Beauty,325.44,143.19,220,23
+142,Blueharbor Cookbook,Books,33.51,16.08,281,24
+143,Sunfield Board Game,Toys,32.55,20.18,457,36
+144,Ironleaf Olive Oil,Grocery,373.58,231.62,334,31
+145,Coral Bay Laptop Stand,Electronics,158.92,73.10,138,45
+146,Maple & Co Trail Shorts,Clothing,419.65,222.41,465,28
+147,Redstone Duvet Cover,Home,122.88,78.64,73,57
+148,Quietline Jump Rope,Sports,279.03,122.77,397,53
+149,AeroNest Shampoo,Beauty,230.47,147.50,218,34
+150,Lumen Notebook Set,Books,285.79,157.18,162,48
+151,Northpeak Building Blocks,Toys,27.92,18.99,428,53
+152,Blueharbor Green Tea Box,Grocery,218.63,102.76,269,43
+153,Sunfield Bluetooth Speaker,Electronics,53.86,27.47,115,57
+154,Ironleaf Wool Sweater,Clothing,144.59,69.40,456,57
+155,Coral Bay Cutlery Set,Home,271.40,181.84,183,45
+156,Maple & Co Soccer Ball,Sports,302.19,202.47,72,58
+157,Redstone Nail Kit,Beauty,413.98,256.67,224,56
+158,Quietline Science Magazine,Books,315.78,132.63,363,37
+159,AeroNest STEM Robot Kit,Toys,41.51,26.98,408,37
+160,Lumen Nut Mix,Grocery,123.82,78.01,415,26
+161,Northpeak Wireless Headphones,Electronics,356.66,174.76,399,21
+162,Blueharbor Denim Jeans,Clothing,326.80,183.01,147,44
+163,Sunfield Desk Lamp,Home,42.97,29.22,170,6
+164,Ironleaf Dumbbell Pair,Sports,161.27,109.66,460,13
+165,Coral Bay Body Wash,Beauty,283.49,124.74,185,47
+166,Maple & Co Kids Picture Book,Books,392.61,255.20,221,50
+167,Redstone Action Figure,Toys,151.77,69.81,213,44
+168,Quietline Honey Jar,Grocery,16.05,9.79,228,11
+169,AeroNest Smart Watch,Electronics,46.08,32.26,377,27
+170,Lumen Cap,Clothing,325.43,182.24,335,33
+171,Northpeak Ceramic Mug,Home,70.81,34.70,8,8
+172,Blueharbor Resistance Bands,Sports,55.64,32.27,201,24
+173,Sunfield Hair Serum,Beauty,100.74,65.48,408,21
+174,Ironleaf Colouring Book,Books,118.75,79.56,73,40
+175,Coral Bay RC Car,Toys,13.29,6.91,352,6
+176,Maple & Co Dark Chocolate,Grocery,31.80,22.90,407,51
+177,Redstone Webcam,Electronics,318.36,143.26,189,8
+178,Quietline Crew Socks,Clothing,401.74,237.03,132,5
+179,AeroNest Plant Pot,Home,370.59,192.71,104,42
+180,Lumen Foam Roller,Sports,17.65,7.59,396,22
+181,Northpeak Face Moisturiser,Beauty,268.67,174.64,115,16
+182,Blueharbor Cookbook,Books,314.97,148.04,206,14
+183,Sunfield Board Game,Toys,16.88,8.78,194,54
+184,Ironleaf Olive Oil,Grocery,299.67,188.79,379,29
+185,Coral Bay Laptop Stand,Electronics,345.14,238.15,162,43
+186,Maple & Co Trail Shorts,Clothing,212.35,114.67,184,51
+187,Redstone Duvet Cover,Home,388.62,225.40,120,58
+188,Quietline Jump Rope,Sports,413.47,202.60,132,43
+189,AeroNest Shampoo,Beauty,246.52,125.73,44,6
+190,Lumen Notebook Set,Books,245.65,130.19,284,37
+191,Northpeak Building Blocks,Toys,216.75,140.89,288,33
+192,Blueharbor Green Tea Box,Grocery,225.97,108.47,458,38
+193,Sunfield Bluetooth Speaker,Electronics,395.29,166.02,441,41
+194,Ironleaf Wool Sweater,Clothing,147.13,69.15,452,58
+195,Coral Bay Cutlery Set,Home,217.28,130.37,273,17
+196,Maple & Co Soccer Ball,Sports,11.51,7.83,295,43
+197,Redstone Nail Kit,Beauty,239.07,157.79,331,46
+198,Quietline Science Magazine,Books,249.85,162.40,275,23
+199,AeroNest STEM Robot Kit,Toys,173.64,114.60,362,51
+200,Lumen Nut Mix,Grocery,13.83,7.74,157,26
+201,Northpeak Wireless Headphones,Electronics,365.88,171.96,171,48
+202,Blueharbor Denim Jeans,Clothing,315.15,192.24,9,9
+203,Sunfield Desk Lamp,Home,383.69,211.03,281,56
+204,Ironleaf Dumbbell Pair,Sports,270.67,148.87,274,33
+205,Coral Bay Body Wash,Beauty,346.62,152.51,304,40
+206,Maple & Co Kids Picture Book,Books,366.53,227.25,25,25
+207,Redstone Action Figure,Toys,147.67,104.85,472,13
+208,Quietline Honey Jar,Grocery,25.37,13.70,465,42
+209,AeroNest Smart Watch,Electronics,383.29,264.47,155,18
+210,Lumen Cap,Clothing,246.75,150.52,430,21
+211,Northpeak Ceramic Mug,Home,386.75,193.38,261,17
+212,Blueharbor Resistance Bands,Sports,260.34,111.95,160,45
+213,Sunfield Hair Serum,Beauty,335.00,224.45,406,22
+214,Ironleaf Colouring Book,Books,11.89,6.66,333,11
+215,Coral Bay RC Car,Toys,243.91,107.32,285,46
+216,Maple & Co Dark Chocolate,Grocery,264.58,164.04,69,9
+217,Redstone Webcam,Electronics,81.29,52.84,395,30
+218,Quietline Crew Socks,Clothing,208.41,97.95,356,46
+219,AeroNest Plant Pot,Home,36.28,19.59,420,45
+220,Lumen Foam Roller,Sports,110.98,51.05,229,10
+221,Northpeak Face Moisturiser,Beauty,411.23,267.30,208,31
+222,Blueharbor Cookbook,Books,280.36,140.18,41,6
+223,Sunfield Board Game,Toys,208.58,123.06,185,16
+224,Ironleaf Olive Oil,Grocery,189.67,104.32,77,49
+225,Coral Bay Laptop Stand,Electronics,298.95,173.39,62,48
+226,Maple & Co Trail Shorts,Clothing,379.10,246.42,106,5
+227,Redstone Duvet Cover,Home,275.86,121.38,205,10
+228,Quietline Jump Rope,Sports,269.30,156.19,99,10
+229,AeroNest Shampoo,Beauty,143.17,103.08,31,8
+230,Lumen Notebook Set,Books,353.48,201.48,43,43
+231,Northpeak Building Blocks,Toys,311.81,212.03,372,49
+232,Blueharbor Green Tea Box,Grocery,117.23,82.06,289,29
+233,Sunfield Bluetooth Speaker,Electronics,16.51,8.42,292,59
+234,Ironleaf Wool Sweater,Clothing,280.83,126.37,259,13
+235,Coral Bay Cutlery Set,Home,94.27,64.10,161,29
+236,Maple & Co Soccer Ball,Sports,352.51,176.26,151,35
+237,Redstone Nail Kit,Beauty,54.33,28.79,412,30
+238,Quietline Science Magazine,Books,31.85,17.84,337,20
+239,AeroNest STEM Robot Kit,Toys,209.71,117.44,280,44
+240,Lumen Nut Mix,Grocery,74.53,37.26,286,12
+241,Northpeak Wireless Headphones,Electronics,22.77,12.75,420,43
+242,Blueharbor Denim Jeans,Clothing,17.01,10.55,249,44
+243,Sunfield Desk Lamp,Home,341.41,228.74,376,7
+244,Ironleaf Dumbbell Pair,Sports,306.87,190.26,241,8
+245,Coral Bay Body Wash,Beauty,310.36,201.73,146,34
+246,Maple & Co Kids Picture Book,Books,270.20,167.52,386,26
+247,Redstone Action Figure,Toys,229.52,121.65,395,28
+248,Quietline Honey Jar,Grocery,192.52,82.78,123,56
+249,AeroNest Smart Watch,Electronics,308.98,166.85,244,60
+250,Lumen Cap,Clothing,307.62,187.65,392,51
+251,Northpeak Ceramic Mug,Home,387.48,251.86,316,10
+252,Blueharbor Resistance Bands,Sports,351.13,150.99,306,53
+253,Sunfield Hair Serum,Beauty,262.04,159.84,437,45
+254,Ironleaf Colouring Book,Books,96.41,64.59,255,38
+255,Coral Bay RC Car,Toys,123.25,77.65,213,25
+256,Maple & Co Dark Chocolate,Grocery,73.58,47.83,283,5
+257,Redstone Webcam,Electronics,126.01,84.43,107,21
+258,Quietline Crew Socks,Clothing,369.13,158.73,321,57
+259,AeroNest Plant Pot,Home,231.68,99.62,245,59
+260,Lumen Foam Roller,Sports,19.85,8.54,209,54
+261,Northpeak Face Moisturiser,Beauty,200.27,104.14,236,27
+262,Blueharbor Cookbook,Books,90.16,56.80,323,32
+263,Sunfield Board Game,Toys,339.34,223.96,53,32
+264,Ironleaf Olive Oil,Grocery,93.67,43.09,49,11
+265,Coral Bay Laptop Stand,Electronics,201.30,134.87,427,45
+266,Maple & Co Trail Shorts,Clothing,90.16,43.28,422,27
+267,Redstone Duvet Cover,Home,216.13,97.26,418,16
+268,Quietline Jump Rope,Sports,412.49,292.87,358,20
+269,AeroNest Shampoo,Beauty,364.42,211.36,472,8
+270,Lumen Notebook Set,Books,330.18,211.32,140,40
+271,Northpeak Building Blocks,Toys,392.39,262.90,334,45
+272,Blueharbor Green Tea Box,Grocery,11.88,8.20,271,50
+273,Sunfield Bluetooth Speaker,Electronics,183.99,115.91,62,15
+274,Ironleaf Wool Sweater,Clothing,325.63,185.61,162,24
+275,Coral Bay Cutlery Set,Home,296.81,145.44,211,25
+276,Maple & Co Soccer Ball,Sports,288.27,187.38,480,35
+277,Redstone Nail Kit,Beauty,58.96,26.53,235,11
+278,Quietline Science Magazine,Books,296.93,169.25,8,8
+279,AeroNest STEM Robot Kit,Toys,225.99,101.70,443,47
+280,Lumen Nut Mix,Grocery,367.10,264.31,468,32
+281,Northpeak Wireless Headphones,Electronics,409.32,282.43,73,10
+282,Blueharbor Denim Jeans,Clothing,144.54,101.18,255,17
+283,Sunfield Desk Lamp,Home,348.93,195.40,45,5
+284,Ironleaf Dumbbell Pair,Sports,193.40,81.23,210,39
+285,Coral Bay Body Wash,Beauty,176.20,107.48,148,31
+286,Maple & Co Kids Picture Book,Books,416.73,279.21,59,23
+287,Redstone Action Figure,Toys,201.94,98.95,455,43
+288,Quietline Honey Jar,Grocery,353.80,194.59,299,26
+289,AeroNest Smart Watch,Electronics,85.66,47.97,103,26
+290,Lumen Cap,Clothing,77.79,43.56,202,39
+291,Northpeak Ceramic Mug,Home,247.55,146.05,363,36
+292,Blueharbor Resistance Bands,Sports,303.17,200.09,121,48
+293,Sunfield Hair Serum,Beauty,349.55,185.26,206,45
+294,Ironleaf Colouring Book,Books,378.86,162.91,379,15
+295,Coral Bay RC Car,Toys,409.32,253.78,344,35
+296,Maple & Co Dark Chocolate,Grocery,312.32,134.30,143,48
+297,Redstone Webcam,Electronics,306.08,208.13,188,50
+298,Quietline Crew Socks,Clothing,273.82,120.48,233,55
+299,AeroNest Plant Pot,Home,273.66,120.41,337,54
+300,Lumen Foam Roller,Sports,46.86,28.12,202,51
+301,Northpeak Face Moisturiser,Beauty,282.48,180.79,80,19
+302,Blueharbor Cookbook,Books,30.46,15.53,474,36
+303,Sunfield Board Game,Toys,68.92,44.11,222,9
+304,Ironleaf Olive Oil,Grocery,296.78,157.29,336,43
+305,Coral Bay Laptop Stand,Electronics,410.35,213.38,358,45
+306,Maple & Co Trail Shorts,Clothing,361.48,177.13,406,37
+307,Redstone Duvet Cover,Home,326.37,146.87,72,53
+308,Quietline Jump Rope,Sports,415.07,273.95,357,54
+309,AeroNest Shampoo,Beauty,13.66,6.56,384,53
+310,Lumen Notebook Set,Books,216.91,112.79,364,51
+311,Northpeak Building Blocks,Toys,175.47,77.21,432,55
+312,Blueharbor Green Tea Box,Grocery,382.20,164.35,302,39
+313,Sunfield Bluetooth Speaker,Electronics,30.48,21.34,335,38
+314,Ironleaf Wool Sweater,Clothing,95.59,66.91,148,57
+315,Coral Bay Cutlery Set,Home,241.13,130.21,172,32
+316,Maple & Co Soccer Ball,Sports,224.60,141.50,275,36
+317,Redstone Nail Kit,Beauty,189.65,115.69,395,20
+318,Quietline Science Magazine,Books,124.09,57.08,469,49
+319,AeroNest STEM Robot Kit,Toys,114.25,71.98,245,29
+320,Lumen Nut Mix,Grocery,66.15,43.66,259,52
+321,Northpeak Wireless Headphones,Electronics,126.51,54.40,216,23
+322,Blueharbor Denim Jeans,Clothing,213.16,98.05,335,17
+323,Sunfield Desk Lamp,Home,64.41,37.36,381,24
+324,Ironleaf Dumbbell Pair,Sports,222.55,95.70,376,45
+325,Coral Bay Body Wash,Beauty,77.72,52.07,61,31
+326,Maple & Co Kids Picture Book,Books,284.38,167.78,309,7
+327,Redstone Action Figure,Toys,236.61,123.04,277,55
+328,Quietline Honey Jar,Grocery,70.33,32.35,252,18
+329,AeroNest Smart Watch,Electronics,98.81,67.19,103,26
+330,Lumen Cap,Clothing,222.02,102.13,401,58
+331,Northpeak Ceramic Mug,Home,238.23,133.41,214,19
+332,Blueharbor Resistance Bands,Sports,116.47,58.24,61,44
+333,Sunfield Hair Serum,Beauty,189.40,128.79,137,21
+334,Ironleaf Colouring Book,Books,386.93,216.68,182,50
+335,Coral Bay RC Car,Toys,81.80,53.17,163,30
+336,Maple & Co Dark Chocolate,Grocery,355.83,192.15,416,26
+337,Redstone Webcam,Electronics,395.22,177.85,311,16
+338,Quietline Crew Socks,Clothing,34.01,18.03,244,11
+339,AeroNest Plant Pot,Home,108.86,68.58,81,45
+340,Lumen Foam Roller,Sports,235.32,122.37,336,34
+341,Northpeak Face Moisturiser,Beauty,18.56,11.32,175,5
+342,Blueharbor Cookbook,Books,265.19,140.55,460,33
+343,Sunfield Board Game,Toys,113.93,59.24,277,7
+344,Ironleaf Olive Oil,Grocery,206.92,113.81,281,34
+345,Coral Bay Laptop Stand,Electronics,220.55,99.25,287,47
+346,Maple & Co Trail Shorts,Clothing,109.76,51.59,231,7
+347,Redstone Duvet Cover,Home,211.35,137.38,108,27
+348,Quietline Jump Rope,Sports,257.35,149.26,334,60
+349,AeroNest Shampoo,Beauty,329.58,230.71,193,13
+350,Lumen Notebook Set,Books,125.15,88.86,395,39
+351,Northpeak Building Blocks,Toys,228.45,123.36,15,15
+352,Blueharbor Green Tea Box,Grocery,84.65,44.86,135,24
+353,Sunfield Bluetooth Speaker,Electronics,51.11,28.11,432,27
+354,Ironleaf Wool Sweater,Clothing,135.27,60.87,142,11
+355,Coral Bay Cutlery Set,Home,49.17,31.96,343,11
+356,Maple & Co Soccer Ball,Sports,19.98,8.99,352,54
+357,Redstone Nail Kit,Beauty,197.73,96.89,336,47
+358,Quietline Science Magazine,Books,287.89,126.67,94,58
+359,AeroNest STEM Robot Kit,Toys,245.08,164.20,128,56
+360,Lumen Nut Mix,Grocery,136.08,68.04,294,50
+361,Northpeak Wireless Headphones,Electronics,9.89,4.45,242,35
+362,Blueharbor Denim Jeans,Clothing,36.89,25.45,258,49
+363,Sunfield Desk Lamp,Home,49.96,25.98,339,37
+364,Ironleaf Dumbbell Pair,Sports,418.18,200.73,434,43
+365,Coral Bay Body Wash,Beauty,8.36,5.02,356,33
+366,Maple & Co Kids Picture Book,Books,123.02,70.12,473,21
+367,Redstone Action Figure,Toys,12.29,7.13,344,17
+368,Quietline Honey Jar,Grocery,18.41,12.15,457,53
+369,AeroNest Smart Watch,Electronics,228.91,146.50,93,41
+370,Lumen Cap,Clothing,269.16,183.03,141,57
+371,Northpeak Ceramic Mug,Home,46.57,28.41,207,25
+372,Blueharbor Resistance Bands,Sports,236.34,120.53,87,49
+373,Sunfield Hair Serum,Beauty,240.15,134.48,136,25
+374,Ironleaf Colouring Book,Books,58.91,31.81,171,40
+375,Coral Bay RC Car,Toys,193.68,89.09,15,15
+376,Maple & Co Dark Chocolate,Grocery,104.91,71.34,171,31
+377,Redstone Webcam,Electronics,80.28,43.35,14,14
+378,Quietline Crew Socks,Clothing,9.87,5.82,21,21
+379,AeroNest Plant Pot,Home,365.76,248.72,401,40
+380,Lumen Foam Roller,Sports,217.99,91.56,134,5
+381,Northpeak Face Moisturiser,Beauty,6.69,4.68,241,39
+382,Blueharbor Cookbook,Books,70.09,49.76,451,38
+383,Sunfield Board Game,Toys,310.90,189.65,410,51
+384,Ironleaf Olive Oil,Grocery,277.61,169.34,34,34
+385,Coral Bay Laptop Stand,Electronics,419.41,176.15,44,8
+386,Maple & Co Trail Shorts,Clothing,413.82,240.02,468,53
+387,Redstone Duvet Cover,Home,181.87,116.40,93,18
+388,Quietline Jump Rope,Sports,367.53,220.52,201,46
+389,AeroNest Shampoo,Beauty,168.42,75.79,145,9
+390,Lumen Notebook Set,Books,150.56,106.90,42,42
+391,Northpeak Building Blocks,Toys,416.75,183.37,9,9
+392,Blueharbor Green Tea Box,Grocery,328.45,226.63,240,51
+393,Sunfield Bluetooth Speaker,Electronics,61.95,38.41,433,57
+394,Ironleaf Wool Sweater,Clothing,293.69,149.78,428,14
+395,Coral Bay Cutlery Set,Home,280.32,151.37,178,39
+396,Maple & Co Soccer Ball,Sports,324.44,158.98,306,15
+397,Redstone Nail Kit,Beauty,297.39,160.59,294,42
+398,Quietline Science Magazine,Books,325.46,198.53,284,36
+399,AeroNest STEM Robot Kit,Toys,273.15,136.58,173,27
+400,Lumen Nut Mix,Grocery,258.32,113.66,80,54
+401,Northpeak Wireless Headphones,Electronics,326.49,159.98,130,28
+402,Blueharbor Denim Jeans,Clothing,156.70,90.89,186,34
+403,Sunfield Desk Lamp,Home,356.00,163.76,271,46
+404,Ironleaf Dumbbell Pair,Sports,97.91,52.87,118,46
+405,Coral Bay Body Wash,Beauty,219.72,131.83,462,32
+406,Maple & Co Kids Picture Book,Books,40.26,24.16,187,25
+407,Redstone Action Figure,Toys,403.47,238.05,195,18
+408,Quietline Honey Jar,Grocery,14.17,8.64,308,31
+409,AeroNest Smart Watch,Electronics,42.18,27.00,315,47
+410,Lumen Cap,Clothing,319.93,227.15,456,48
+411,Northpeak Ceramic Mug,Home,361.40,252.98,160,9
+412,Blueharbor Resistance Bands,Sports,183.72,108.39,329,47
+413,Sunfield Hair Serum,Beauty,71.35,30.68,245,43
+414,Ironleaf Colouring Book,Books,329.34,187.72,357,51
+415,Coral Bay RC Car,Toys,291.70,145.85,443,21
+416,Maple & Co Dark Chocolate,Grocery,387.80,170.63,44,40
+417,Redstone Webcam,Electronics,400.31,284.22,250,45
+418,Quietline Crew Socks,Clothing,73.38,36.69,408,38
+419,AeroNest Plant Pot,Home,130.90,83.78,146,42
+420,Lumen Foam Roller,Sports,112.96,75.68,303,60
+421,Northpeak Face Moisturiser,Beauty,78.58,37.72,474,54
+422,Blueharbor Cookbook,Books,220.18,118.90,384,39
+423,Sunfield Board Game,Toys,353.96,251.31,260,47
+424,Ironleaf Olive Oil,Grocery,83.16,35.76,36,36
+425,Coral Bay Laptop Stand,Electronics,270.20,116.19,241,56
+426,Maple & Co Trail Shorts,Clothing,15.04,8.87,262,23
+427,Redstone Duvet Cover,Home,363.79,258.29,344,47
+428,Quietline Jump Rope,Sports,417.66,229.71,359,14
+429,AeroNest Shampoo,Beauty,278.42,169.84,177,27
+430,Lumen Notebook Set,Books,417.71,288.22,396,28
+431,Northpeak Building Blocks,Toys,367.59,202.17,20,20
+432,Blueharbor Green Tea Box,Grocery,290.81,145.40,426,43
+433,Sunfield Bluetooth Speaker,Electronics,307.91,129.32,181,49
+434,Ironleaf Wool Sweater,Clothing,276.64,124.49,407,18
+435,Coral Bay Cutlery Set,Home,163.70,76.94,368,16
+436,Maple & Co Soccer Ball,Sports,127.82,77.97,357,23
+437,Redstone Nail Kit,Beauty,330.98,205.21,10,10
+438,Quietline Science Magazine,Books,408.87,212.61,300,49
+439,AeroNest STEM Robot Kit,Toys,22.95,15.84,237,13
+440,Lumen Nut Mix,Grocery,133.97,66.98,225,8
+441,Northpeak Wireless Headphones,Electronics,263.49,139.65,250,49
+442,Blueharbor Denim Jeans,Clothing,206.88,97.23,155,39
+443,Sunfield Desk Lamp,Home,204.65,104.37,205,20
+444,Ironleaf Dumbbell Pair,Sports,400.42,284.30,359,39
+445,Coral Bay Body Wash,Beauty,94.42,51.93,350,39
+446,Maple & Co Kids Picture Book,Books,255.93,179.15,56,56
+447,Redstone Action Figure,Toys,330.85,145.57,374,49
+448,Quietline Honey Jar,Grocery,349.51,171.26,336,34
+449,AeroNest Smart Watch,Electronics,133.61,86.85,49,37
+450,Lumen Cap,Clothing,12.44,6.22,404,13
+451,Northpeak Ceramic Mug,Home,25.34,11.91,107,5
+452,Blueharbor Resistance Bands,Sports,137.18,93.28,252,27
+453,Sunfield Hair Serum,Beauty,195.34,93.76,405,57
+454,Ironleaf Colouring Book,Books,185.43,109.40,342,53
+455,Coral Bay RC Car,Toys,83.92,47.83,253,29
+456,Maple & Co Dark Chocolate,Grocery,148.84,81.86,380,27
+457,Redstone Webcam,Electronics,150.00,78.00,219,40
+458,Quietline Crew Socks,Clothing,140.38,75.81,284,28
+459,AeroNest Plant Pot,Home,16.62,11.80,398,29
+460,Lumen Foam Roller,Sports,117.06,83.11,252,38
+461,Northpeak Face Moisturiser,Beauty,75.89,40.98,455,37
+462,Blueharbor Cookbook,Books,202.08,99.02,34,8
+463,Sunfield Board Game,Toys,79.17,41.96,215,46
+464,Ironleaf Olive Oil,Grocery,116.09,77.78,130,23
+465,Coral Bay Laptop Stand,Electronics,190.39,108.52,77,42
+466,Maple & Co Trail Shorts,Clothing,116.29,70.94,268,23
+467,Redstone Duvet Cover,Home,125.52,52.72,426,12
+468,Quietline Jump Rope,Sports,291.58,148.71,26,26
+469,AeroNest Shampoo,Beauty,282.04,152.30,399,17
+470,Lumen Notebook Set,Books,205.97,113.28,473,26
+471,Northpeak Building Blocks,Toys,274.76,186.84,275,11
+472,Blueharbor Green Tea Box,Grocery,250.69,152.92,109,39
+473,Sunfield Bluetooth Speaker,Electronics,273.18,185.76,194,46
+474,Ironleaf Wool Sweater,Clothing,261.56,136.01,151,15
+475,Coral Bay Cutlery Set,Home,80.17,46.50,60,47
+476,Maple & Co Soccer Ball,Sports,85.46,58.97,339,14
+477,Redstone Nail Kit,Beauty,125.92,75.55,322,34
+478,Quietline Science Magazine,Books,356.79,246.19,376,10
+479,AeroNest STEM Robot Kit,Toys,39.99,16.80,63,50
+480,Lumen Nut Mix,Grocery,293.28,161.30,409,34
+481,Northpeak Wireless Headphones,Electronics,128.28,85.95,202,8
+482,Blueharbor Denim Jeans,Clothing,349.63,202.79,9,9
+483,Sunfield Desk Lamp,Home,251.76,130.92,87,33
+484,Ironleaf Dumbbell Pair,Sports,47.59,23.80,358,31
+485,Coral Bay Body Wash,Beauty,243.62,121.81,137,43
+486,Maple & Co Kids Picture Book,Books,91.47,55.80,405,35
+487,Redstone Action Figure,Toys,167.95,117.56,281,42
+488,Quietline Honey Jar,Grocery,94.26,53.73,49,30
+489,AeroNest Smart Watch,Electronics,267.77,120.50,480,38
+490,Lumen Cap,Clothing,281.60,185.86,204,24
+491,Northpeak Ceramic Mug,Home,406.59,207.36,353,8
+492,Blueharbor Resistance Bands,Sports,229.65,110.23,412,44
+493,Sunfield Hair Serum,Beauty,177.80,92.46,379,9
+494,Ironleaf Colouring Book,Books,380.80,209.44,296,52
+495,Coral Bay RC Car,Toys,21.50,14.19,448,25
+496,Maple & Co Dark Chocolate,Grocery,86.60,38.10,222,6
+497,Redstone Webcam,Electronics,159.71,100.62,258,24
+498,Quietline Crew Socks,Clothing,32.19,22.21,417,39
+499,AeroNest Plant Pot,Home,317.66,162.01,180,44
+500,Lumen Foam Roller,Sports,158.40,102.96,234,32
+491,Northpeak Ceramic Mug,Home,406.59,207.36,353,8
+492,Blueharbor Resistance Bands,Sports,229.65,110.23,412,44
+493,Sunfield Hair Serum,Beauty,177.80,92.46,379,9
+494,Ironleaf Colouring Book,Books,380.80,209.44,296,52
+495,Coral Bay RC Car,Toys,21.50,14.19,448,25

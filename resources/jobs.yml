@@ -1,0 +1,39 @@
+# Job resource: Bronze → Silver → Gold (same scripts as src/)
+# This workspace only allows serverless compute — no classic job clusters.
+
+resources:
+  jobs:
+    medallion_pipeline:
+      name: "[${bundle.target}] c1-medallion-pipeline"
+      max_concurrent_runs: 1
+      tags:
+        project: c1-medallion
+        layer: bronze-silver-gold
+
+      environments:
+        - environment_key: default
+          spec:
+            environment_version: "3"
+
+      tasks:
+        - task_key: bronze_ingest
+          environment_key: default
+          spark_python_task:
+            python_file: ../src/bronze/ingest_all.py
+            parameters:
+              - --landing-dir
+              - ${var.landing_dir}
+
+        - task_key: silver_quality
+          depends_on:
+            - task_key: bronze_ingest
+          environment_key: default
+          spark_python_task:
+            python_file: ../src/silver/create_silver_tables.py
+
+        - task_key: gold_aggregations
+          depends_on:
+            - task_key: silver_quality
+          environment_key: default
+          spark_python_task:
+            python_file: ../src/gold/create_gold_tables.py

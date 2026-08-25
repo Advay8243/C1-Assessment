@@ -1,0 +1,39 @@
+# Databricks Asset Bundle — medallion pipeline
+# Auth: use a CLI profile or DATABRICKS_TOKEN in the environment.
+# Do not put PATs or passwords in this file.
+
+bundle:
+  name: c1-medallion-pipeline
+
+include:
+  - resources/*.yml
+
+workspace:
+  host: https://dbc-a6c854d8-1508.cloud.databricks.com
+  profile: c1-assessment
+  root_path: /Workspace/Users/${workspace.current_user.userName}/.bundle/${bundle.name}/${bundle.target}
+
+# Mirrors the repo: src (bronze/silver/gold/dashboard), data, database, tests.
+sync:
+  include:
+    - src/**
+    - data/**
+    - database/**
+    - tests/**
+  exclude:
+    - .git/**
+
+variables:
+  landing_dir:
+    description: Landing path for customers.csv, orders.csv, products.csv (Workspace files; not DBFS FileStore)
+    default: ${workspace.root_path}/files/data
+
+targets:
+  dev:
+    default: true
+    mode: development
+    workspace:
+      host: https://dbc-a6c854d8-1508.cloud.databricks.com
+      profile: c1-assessment
+    variables:
+      landing_dir: ${workspace.root_path}/files/data
