@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.local_spark/
+spark-warehouse/
+metastore_db/
+*.log
+.ipynb_checkpoints/
+.databricks/
+.env
+*.token
+.venv/
+venv/
